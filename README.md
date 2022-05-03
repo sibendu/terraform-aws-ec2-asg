@@ -14,6 +14,6 @@ Hitting ELB DNS to show IP of respective machines.
 After a few minutes, one instance should terminate due to scale down policy.
 Cloudwatch alarms can be seen.
 
-[[https://github.com/sibendu/terraform-aws-ec2-asg/blob/main/Screenshot-1.jpg]]
+[First time hit](https://github.com/sibendu/terraform-aws-ec2-asg/blob/main/Screenshot-1.jpg)
 
 [[https://github.com/sibendu/terraform-aws-ec2-asg/blob/main/Screenshot-2.jpg]]
