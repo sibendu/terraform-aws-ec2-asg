@@ -16,4 +16,4 @@ Cloudwatch alarms can be seen.
 
 [First time hit](https://github.com/sibendu/terraform-aws-ec2-asg/blob/main/Screenshot-1.jpg)
 
-[[https://github.com/sibendu/terraform-aws-ec2-asg/blob/main/Screenshot-2.jpg]]
+[Refreshing browser will hit the other instance and show that ip[(./Screenshot-2.jpg)
